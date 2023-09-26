@@ -6,4 +6,4 @@
 ### 📕 참고 교재
 <a href= "https://wikibook.co.kr/pyda100/"> 파이썬 데이터 분석 실무 테크닉 100 </a> 
 
-<img src="/바탕 화면/python.jpg" width="450px" height="300px" title="교재" alt="파이썬데이터분석실무테크닉"></img><br/>
+<img src="https://wikibook.co.kr/images/cover/l/9791158392178.jpg" width="100" height="100" />
